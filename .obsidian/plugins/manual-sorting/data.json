@@ -1,0 +1,230 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Languages",
+        "Django",
+        "Systems & Architecture",
+        "DevOps",
+        "Cloud",
+        "OS",
+        "Networking",
+        "Agentic AI",
+        "Ultralearning",
+        "TODOs"
+      ],
+      "sortOrder": "custom"
+    },
+    "Agentic AI": {
+      "children": [
+        "Agentic AI/Deeplearning.AI Course",
+        "Agentic AI/LangChain",
+        "Agentic AI/Model Context Protocol.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Agentic AI/Deeplearning.AI Course": {
+      "children": [
+        "Agentic AI/Deeplearning.AI Course/attachments",
+        "Agentic AI/Deeplearning.AI Course/Intro to Agentic Workflows.md",
+        "Agentic AI/Deeplearning.AI Course/Reflection.md",
+        "Agentic AI/Deeplearning.AI Course/Tool Use.md",
+        "Agentic AI/Deeplearning.AI Course/Practical Tips for Building Agentic AI.md",
+        "Agentic AI/Deeplearning.AI Course/Patterns for Highly Autonomous Agents.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Agentic AI/Deeplearning.AI Course/attachments": {
+      "children": [
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260215172331.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260215181808.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260215182710.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216092504.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216092539.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216092605.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216093516.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216095431.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216095436.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216095856.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216100309.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216100439.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216100832.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216121639.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216122230.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216122747.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216122753.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216122813.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216123321.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216123653.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216123725.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216123736.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260216124021.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260214111013.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260214110902.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260214110509.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260214110324.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260214110122.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260213192456.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260213193351.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260213201700.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260213201720.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260213201932.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260213202015.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260213202114.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260213191828.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260213230124.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260213230402.png",
+        "Agentic AI/Deeplearning.AI Course/attachments/Pasted image 20260213191716.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Agentic AI/LangChain": {
+      "children": [
+        "Agentic AI/LangChain/What is LangChain?.md",
+        "Agentic AI/LangChain/Models, Prompts, and parsers.md",
+        "Agentic AI/LangChain/Memory.md",
+        "Agentic AI/LangChain/Chains.md",
+        "Agentic AI/LangChain/Question and Answer.md",
+        "Agentic AI/LangChain/Evaluation.md",
+        "Agentic AI/LangChain/Agents.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Cloud": {
+      "children": [
+        "Cloud/Docker.md",
+        "Cloud/E2B.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DevOps": {
+      "children": [
+        "DevOps/Observability",
+        "DevOps/Kubernetes",
+        "DevOps/Git",
+        "DevOps/GitHub"
+      ],
+      "sortOrder": "custom"
+    },
+    "DevOps/Git": {
+      "children": [
+        "DevOps/Git/attachments",
+        "DevOps/Git/Git Commands.md",
+        "DevOps/Git/Git Workflows.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DevOps/Git/attachments": {
+      "children": [
+        "DevOps/Git/attachments/Pasted image 20260217113901.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "DevOps/GitHub": {
+      "children": [
+        "DevOps/GitHub/GitHub Actions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DevOps/Kubernetes": {
+      "children": [
+        "DevOps/Kubernetes/CRDs.md",
+        "DevOps/Kubernetes/Kubernetes.md",
+        "DevOps/Kubernetes/kubectl.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DevOps/Observability": {
+      "children": [
+        "DevOps/Observability/attachments",
+        "DevOps/Observability/Observability.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DevOps/Observability/attachments": {
+      "children": [
+        "DevOps/Observability/attachments/Pasted image 20260218093801.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Django": {
+      "children": [
+        "Django/sdas.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Languages": {
+      "children": [
+        "Languages/Rust"
+      ],
+      "sortOrder": "custom"
+    },
+    "Languages/Rust": {
+      "children": [
+        "Languages/Rust/Packages, Crates and Modules.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Networking": {
+      "children": [
+        "Networking/Physical_Datalink (L1-L2).md",
+        "Networking/Network (L3).md",
+        "Networking/Transport_Session (L4-L5).md",
+        "Networking/Application (L6-L7).md",
+        "Networking/Sockets.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OS": {
+      "children": [
+        "OS/Unix.md",
+        "OS/Files.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Systems & Architecture": {
+      "children": [
+        "Systems & Architecture/Kafka"
+      ],
+      "sortOrder": "custom"
+    },
+    "Systems & Architecture/Kafka": {
+      "children": [
+        "Systems & Architecture/Kafka/attachments",
+        "Systems & Architecture/Kafka/Kafka.md",
+        "Systems & Architecture/Kafka/KRaft.md",
+        "Systems & Architecture/Kafka/Kafka Listeners.md",
+        "Systems & Architecture/Kafka/Kafka Schema Registry.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Systems & Architecture/Kafka/attachments": {
+      "children": [
+        "Systems & Architecture/Kafka/attachments/Pasted image 20260221111936.png",
+        "Systems & Architecture/Kafka/attachments/Pasted image 20260221111932.png",
+        "Systems & Architecture/Kafka/attachments/Pasted image 20260221102255.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "TODOs": {
+      "children": [
+        "TODOs/Projects.md",
+        "TODOs/DevOps ultralearning.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Ultralearning": {
+      "children": [
+        "Ultralearning/4-Metalearning.md",
+        "Ultralearning/5-Focus.md",
+        "Ultralearning/C6-Directness.md",
+        "Ultralearning/C7-Drill.md",
+        "Ultralearning/C8-Recall.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
