@@ -170,8 +170,7 @@
         "Networking/Physical_Datalink (L1-L2).md",
         "Networking/Network (L3).md",
         "Networking/Transport_Session (L4-L5).md",
-        "Networking/Application (L6-L7).md",
-        "Networking/Sockets.md"
+        "Networking/Application (L6-L7).md"
       ],
       "sortOrder": "custom"
     },
