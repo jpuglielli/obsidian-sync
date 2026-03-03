@@ -2,6 +2,9 @@
   "customOrder": {
     "/": {
       "children": [
+        "Frontend",
+        "Daybook",
+        "Databases (and storage)",
         "Languages",
         "Django",
         "Systems & Architecture",
@@ -97,8 +100,29 @@
       ],
       "sortOrder": "custom"
     },
+    "Databases (and storage)": {
+      "children": [
+        "Databases (and storage)/Redis.md",
+        "Databases (and storage)/SQL.md",
+        "Databases (and storage)/MVCC.md",
+        "Databases (and storage)/PostgreSQL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Daybook": {
+      "children": [
+        "Daybook/26-03-02.md",
+        "Daybook/26-02-26.md",
+        "Daybook/26-02-25.md",
+        "Daybook/26-02-23.md"
+      ],
+      "sortOrder": "custom"
+    },
     "DevOps": {
       "children": [
+        "DevOps/Vocab.md",
+        "DevOps/APM",
+        "DevOps/Monitoring",
         "DevOps/Observability",
         "DevOps/Kubernetes",
         "DevOps/Git",
@@ -106,9 +130,16 @@
       ],
       "sortOrder": "custom"
     },
+    "DevOps/APM": {
+      "children": [
+        "DevOps/APM/APM Fundamentals.md"
+      ],
+      "sortOrder": "custom"
+    },
     "DevOps/Git": {
       "children": [
         "DevOps/Git/attachments",
+        "DevOps/Git/Git Submodules.md",
         "DevOps/Git/Git Commands.md",
         "DevOps/Git/Git Workflows.md"
       ],
@@ -128,16 +159,25 @@
     },
     "DevOps/Kubernetes": {
       "children": [
+        "DevOps/Kubernetes/Vocab.md",
         "DevOps/Kubernetes/CRDs.md",
         "DevOps/Kubernetes/Kubernetes.md",
         "DevOps/Kubernetes/kubectl.md"
       ],
       "sortOrder": "custom"
     },
+    "DevOps/Monitoring": {
+      "children": [
+        "DevOps/Monitoring/Monitoring Fundamentals.md"
+      ],
+      "sortOrder": "custom"
+    },
     "DevOps/Observability": {
       "children": [
         "DevOps/Observability/attachments",
-        "DevOps/Observability/Observability.md"
+        "DevOps/Observability/Observability Fundamentals.md",
+        "DevOps/Observability/Traces.md",
+        "DevOps/Observability/To Learn.md"
       ],
       "sortOrder": "custom"
     },
@@ -150,6 +190,12 @@
     "Django": {
       "children": [
         "Django/sdas.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Frontend": {
+      "children": [
+        "Frontend/Zustand.md"
       ],
       "sortOrder": "custom"
     },
@@ -167,6 +213,9 @@
     },
     "Networking": {
       "children": [
+        "Networking/TCP IP Model.md",
+        "Networking/OSI Model.md",
+        "Networking/TCP.md",
         "Networking/Physical_Datalink (L1-L2).md",
         "Networking/Network (L3).md",
         "Networking/Transport_Session (L4-L5).md",
@@ -214,11 +263,14 @@
     },
     "Ultralearning": {
       "children": [
-        "Ultralearning/4-Metalearning.md",
-        "Ultralearning/5-Focus.md",
-        "Ultralearning/C6-Directness.md",
-        "Ultralearning/C7-Drill.md",
-        "Ultralearning/C8-Recall.md"
+        "Ultralearning/04-Metalearning.md",
+        "Ultralearning/05-Focus.md",
+        "Ultralearning/06-Directness.md",
+        "Ultralearning/07-Drill.md",
+        "Ultralearning/08-Recall.md",
+        "Ultralearning/09-Feedback.md",
+        "Ultralearning/10-Retention.md",
+        "Ultralearning/11-Intuition.md"
       ],
       "sortOrder": "custom"
     }

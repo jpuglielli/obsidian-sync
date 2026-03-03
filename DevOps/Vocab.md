@@ -1,0 +1,2 @@
+#### Ingress
+- A single point where all http traffic comes in, and routes to services. It is different from a load balancer since it is layer 7/http aware, so it can act as a single entrypoint, and route requests based on the HTTP request itself (headers,)
