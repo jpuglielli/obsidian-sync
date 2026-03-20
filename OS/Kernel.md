@@ -1,0 +1,1 @@
+Core software that sits between your applications and the hardware, managing processes, memory, filesystems, networking, and permissions.

@@ -2,6 +2,10 @@
   "customOrder": {
     "/": {
       "children": [
+        "Projects",
+        "Learnings Journal",
+        "Goals",
+        "Editors",
         "Frontend",
         "Daybook",
         "Databases (and storage)",
@@ -159,6 +163,7 @@
     },
     "DevOps/Kubernetes": {
       "children": [
+        "DevOps/Kubernetes/Kubernetes Manifest.md",
         "DevOps/Kubernetes/Vocab.md",
         "DevOps/Kubernetes/CRDs.md",
         "DevOps/Kubernetes/Kubernetes.md",
@@ -174,6 +179,7 @@
     },
     "DevOps/Observability": {
       "children": [
+        "DevOps/Observability/Untitled.md",
         "DevOps/Observability/attachments",
         "DevOps/Observability/Observability Fundamentals.md",
         "DevOps/Observability/Traces.md",
@@ -193,9 +199,28 @@
       ],
       "sortOrder": "custom"
     },
+    "Editors": {
+      "children": [
+        "Editors/attachments",
+        "Editors/Vim Motions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Editors/attachments": {
+      "children": [
+        "Editors/attachments/Pasted image 20260303164638.png"
+      ],
+      "sortOrder": "custom"
+    },
     "Frontend": {
       "children": [
         "Frontend/Zustand.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Goals": {
+      "children": [
+        "Goals/End of Year Physical Goals.md"
       ],
       "sortOrder": "custom"
     },
@@ -211,8 +236,14 @@
       ],
       "sortOrder": "custom"
     },
+    "Learnings Journal": {
+      "children": [],
+      "sortOrder": "custom"
+    },
     "Networking": {
       "children": [
+        "Networking/Network Address Translation (NAT).md",
+        "Networking/SSH.md",
         "Networking/TCP IP Model.md",
         "Networking/OSI Model.md",
         "Networking/TCP.md",
@@ -225,13 +256,35 @@
     },
     "OS": {
       "children": [
+        "OS/apt Package Management.md",
+        "OS/attachments",
+        "OS/Filesystem.md",
+        "OS/Commands.md",
+        "OS/Pipes and Streams.md",
+        "OS/Process management.md",
+        "OS/Kernel.md",
+        "OS/Users & Permissions.md",
         "OS/Unix.md",
         "OS/Files.md"
       ],
       "sortOrder": "custom"
     },
+    "OS/attachments": {
+      "children": [
+        "OS/attachments/Pasted image 20260318202051.png",
+        "OS/attachments/Pasted image 20260318193111.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Projects": {
+      "children": [
+        "Projects/Slipstream.md"
+      ],
+      "sortOrder": "custom"
+    },
     "Systems & Architecture": {
       "children": [
+        "Systems & Architecture/Clean Code.md",
         "Systems & Architecture/Kafka"
       ],
       "sortOrder": "custom"
